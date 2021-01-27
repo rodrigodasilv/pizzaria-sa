@@ -1,0 +1,52 @@
+.bg-themed{
+    background-color: #997950;
+}
+
+.text-themed{
+    color: #997950;
+}
+
+.text-logout{ 
+    color: #f4d8a8 !important;
+}
+
+.navbar-brand img{
+    margin-bottom: -13px;
+}
+
+.prompt_font{
+    font-family: 'Prompt', sans-serif;
+    text-transform: uppercase;
+}
+
+.prompt_font a{
+    text-emphasis: none;
+    pointer-events: none;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.prompt_font h1{
+    font-size: x-large;
+    margin: 0;
+}
+
+body, html{
+    overflow-x: hidden;
+    /* Isso vai travar todas as páginas de dar scroll horizontalmente. Eu não sei fazer melhor do que isso. Que pena. */
+}
+
+.img-icon{
+    height: 30px;
+    width: 30px;
+}
+
+.margin-5-px{
+    margin: 5px;
+}
+
+.clean_link{
+    text-emphasis: none;
+    color: #ffffff;
+    text-decoration: none;
+}

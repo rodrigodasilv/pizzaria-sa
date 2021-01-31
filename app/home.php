@@ -191,12 +191,12 @@
             </tr>
             <tr>
               <td><img class="img-icon" src="assets/imgs/icons/phone.png" alt="Telefone"></td>
-              <td><h4><a class="prompt_font text-themed" href="tel:(47) 3029-3568">(47) 3029-3568</a><h4></td>
+              <td><h4><a class="prompt_font text-themed" href="tel:(47) 9999-9999">(47) 9999-9999</a><h4></td>
             </tr>
             <tr>
               <td><img class="img-icon" src="assets/imgs/icons/whatsapp.png" alt="Whatsapp"></td>
               <!-- Esse número do whatsapp é de outra pizzaria, eu só usei pra ficar tipo placeholder -->
-              <td><h4><a  class="prompt_font text-themed" href="https://wa.me/5547984185306?text=Eu%20quero%20pedir%20uma%20pizza!">(47) 98418-5306<h4></td>
+              <td><h4><a  class="prompt_font text-themed" href="https://wa.me/5547999999999?text=Eu%20quero%20pedir%20uma%20pizza!">(47) 99999-9999<h4></td>
             </tr>
           </table>
         </div> 

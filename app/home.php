@@ -195,7 +195,7 @@
             </tr>
             <tr>
               <td><img class="img-icon" src="assets/imgs/icons/whatsapp.png" alt="Whatsapp"></td>
-              <!-- Esse número do whatsapp é de outra pizzaria, eu só usei pra ficar tipo placeholder -->
+              <!-- Esses números são apenas para placeholder -->
               <td><h4><a  class="prompt_font text-themed" href="https://wa.me/5547999999999?text=Eu%20quero%20pedir%20uma%20pizza!">(47) 99999-9999<h4></td>
             </tr>
           </table>
@@ -204,6 +204,7 @@
       <div class="col-auto">
         <div id="map-container-google-8" class="z-depth-1-half map-container-5" style="margin-top:10px;">
           <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114419.32054528152!2d-48.852455!3d-26.339327!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94deb0e9ab9926ed%3A0xf053ebacc8bb773e!2sR.%20Ibirapuera%2C%20491%20-%20Floresta%2C%20Joinville%20-%20SC%2C%2089212-020!5e0!3m2!1spt-BR!2sbr!4v1599055886543!5m2!1spt-BR!2sbr" frameborder="0" style="border:0" allowfullscreen></iframe>
+          <!-- ESSE PROJETO NÃO É AFILIADO COM ESSA PIZZARIA, ESTA PIZZARIA FOI ESCOLHIDA APENAS PARA DEMONSTRAR O WIDGET IFRAME -->
         </div>
       </div>
     </div>
